@@ -55,7 +55,7 @@ a {
   margin-top: 100px; }
 
 .bg-1 {
-  background-image: url(../images/call-to-action.jpg); }
+  background-image: url(../images/botbg.png); }
 
 .bg-opacity {
   position: relative; }
@@ -222,8 +222,8 @@ a:active {
 --*/
 .hero-area {
   height: 90vh;
-  display: flex;
-  justify-content: center;
+  display: box;
+    justify-content: center;
   align-items: center; }
   .hero-area h1 {
     font-size: 60px;
