@@ -314,11 +314,23 @@ a:active {
 .feature-list .btn-main {
   margin-top: 15px; }
 
+.img-responsive {
+  max-height:50%;
+  max-width: 50%;
+  border-radius: 20px;
+}
+
+.img-responsives {
+  max-height:80%;
+  max-width: 80%;
+  border-radius: 20px;
+}
+
 /*--
   Gallery start
 --*/
-.gallery {
-  padding-bottom: 100px; }
+/* .gallery { */
+  /* padding-bottom: 100px; } */
   .gallery .owl-item {
     overflow: hidden;
     position: relative; }
