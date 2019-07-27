@@ -446,3 +446,18 @@ footer {
       color: #282828; }
       footer p.copyright-text a:hover {
         text-decoration: none; }
+
+/* mobile */
+@media only screen and (max-width: 767px) {
+  body {
+    text-align: center;
+  }
+
+  .promo-details h2 {
+    text-align: center;
+  }
+
+  h1 {
+    margin-top: 40px;
+  }
+}
